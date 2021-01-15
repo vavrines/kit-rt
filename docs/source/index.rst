@@ -12,6 +12,8 @@ Welcome to KiT-RT's documentation!
    introduction
    authors
    installation
+   configFiles
+   philosophy
 
 
 Indices and tables
