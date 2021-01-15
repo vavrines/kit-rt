@@ -10,6 +10,7 @@ Welcome to KiT-RT's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   installation
 
 
 Indices and tables
@@ -18,3 +19,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`installation`
